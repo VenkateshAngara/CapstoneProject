@@ -58,7 +58,7 @@ public class Testcase1 extends BaseClass{
 		
 		// to store the value from the excel sheet
 		Object[][] data = ReadData.getData(excelSheetName);
-		
+		System.out.println("Test started");
 		// to return the stored data
 		return data;
 
