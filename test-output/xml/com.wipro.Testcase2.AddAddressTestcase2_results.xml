@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.615">
+    <properties></properties>
+
+
+
+            <testcase
+                name="addressfuctionality"
+                time="8.481"
+                classname="com.wipro.Testcase2.AddAddressTestcase2">
+            </testcase>
+            <testcase
+                name="Login1"
+                time="6.547"
+                classname="com.wipro.Testcase2.AddAddressTestcase2">
+            </testcase>
+            <testcase
+                name="LogoutFunction"
+                time="1.872"
+                classname="com.wipro.Testcase2.AddAddressTestcase2">
+            </testcase>
+            <testcase
+                name="Myaccfunctionality"
+                time="0.715"
+                classname="com.wipro.Testcase2.AddAddressTestcase2">
+            </testcase>
+</testsuite>

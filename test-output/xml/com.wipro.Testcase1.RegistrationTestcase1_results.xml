@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.107">
+    <properties></properties>
+
+
+
+            <testcase
+                name="logout1"
+                time="1.228"
+                classname="com.wipro.Testcase1.RegistrationTestcase1">
+            </testcase>
+            <testcase
+                name="Login1"
+                time="6.916"
+                classname="com.wipro.Testcase1.RegistrationTestcase1">
+            </testcase>
+            <testcase
+                name="Register1"
+                time="11.963"
+                classname="com.wipro.Testcase1.RegistrationTestcase1">
+            </testcase>
+</testsuite>

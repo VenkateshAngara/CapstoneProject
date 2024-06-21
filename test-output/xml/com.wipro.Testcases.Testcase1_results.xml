@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NopCommerceTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.967">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Login1"
+                time="6.637"
+                classname="com.wipro.Testcases.Testcase1">
+            </testcase>
+            <testcase
+                name="logout1"
+                time="0.947"
+                classname="com.wipro.Testcases.Testcase1">
+            </testcase>
+            <testcase
+                name="Register1"
+                time="10.383"
+                classname="com.wipro.Testcases.Testcase1">
+            </testcase>
+</testsuite>

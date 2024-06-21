@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.531">
+    <properties></properties>
+
+
+
+            <testcase
+                name="myselect"
+                time="10.525"
+                classname="com.wipro.Testcase3.AddtoCartTestcase3">
+            </testcase>
+            <testcase
+                name="Login1"
+                time="6.759"
+                classname="com.wipro.Testcase3.AddtoCartTestcase3">
+            </testcase>
+            <testcase
+                name="mymenu"
+                time="3.586"
+                classname="com.wipro.Testcase3.AddtoCartTestcase3">
+            </testcase>
+            <testcase
+                name="logout1"
+                time="1.661"
+                classname="com.wipro.Testcase3.AddtoCartTestcase3">
+            </testcase>
+</testsuite>

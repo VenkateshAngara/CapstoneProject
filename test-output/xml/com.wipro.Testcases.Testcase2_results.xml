@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NopCommerceTest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.533">
+    <properties></properties>
+
+
+
+            <testcase
+                name="addressfuctionality"
+                time="6.693"
+                classname="com.wipro.Testcases.Testcase2">
+            </testcase>
+            <testcase
+                name="LogoutFunction"
+                time="1.684"
+                classname="com.wipro.Testcases.Testcase2">
+            </testcase>
+            <testcase
+                name="Myaccfunctionality"
+                time="0.687"
+                classname="com.wipro.Testcases.Testcase2">
+            </testcase>
+            <testcase
+                name="Login1"
+                time="9.469"
+                classname="com.wipro.Testcases.Testcase2">
+            </testcase>
+</testsuite>
